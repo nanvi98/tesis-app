@@ -1,6 +1,6 @@
 'use client';
 
-import PatientsForm from 'app/panel/medico/components/PatientsForm';
+import PatientsForm from '../../components/PatientsForm';
 import { useMedico } from '@/context/MedicoContext';
 import { motion } from 'framer-motion';
 import { UserPlus } from 'lucide-react';
